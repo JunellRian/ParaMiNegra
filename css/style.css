@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+
+/*CONTENIDO PRINCIPAL*/
+
+body{
+    background-color: rgb(160, 90, 160);
+}
+
+.universal{
+    background-color: rgb(188, 120, 188);
+    width: 500px;
+    height: 450px;
+    margin: 60px auto;
+    border-radius: 30px;
+    padding-top: 40px;
+}
+
+.universal h1{
+    color: white;
+    text-align: center;
+}
+
+.universal img{
+    display: block;
+    margin: 15px auto;
+}
+
+.universal a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(149, 72, 72);
+    padding: 10px 30px;
+    text-align: center;
+    display: block;
+}
+
+.universal a:hover{
+    background-color: rgb(181, 95, 95);
+    color: white;
+}
+
+/*PAGINA 3*/
+
+.header-3{
+    background-color: rgb(117, 117, 164);
+    height: 60px;
+    padding: 20px 0;
+}
+
+.header-3 h2{
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+    margin: 0 40px;
+    background-color: rgb(190, 190, 170);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.main-3 section article img{
+    float: left;
+    margin: 20px 80px;
+    padding: 30px;
+    background-color: black;
+}
